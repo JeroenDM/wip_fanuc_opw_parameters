@@ -9,7 +9,6 @@ They seem to work for the following robots, based on quickly testing in rviz usi
 - lrmate200ib (altough the end-effector origin is not on the flange?)
 - m10ia
 - m16ib20
-- m430ia2p
 
 I did not look at the others. But in any case, good automated tests should be used to make sure the parameters are correct. (By comparing with the KDL forward kinematics from MoveIt!.)
 
