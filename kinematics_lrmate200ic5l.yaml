@@ -8,5 +8,5 @@ manipulator:
     c2: 0.40
     c3: 0.41
     c4: 0.08
-  kinematics_solver_joint_offsets: [0.0, 0.0, -1.57079632679, 0.0, 0.0, 0.0]
+  kinematics_solver_joint_offsets: [0.0, 0.0, -1.57079632679, 0.0, 0.0, 3.14159265359]
   kinematics_solver_joint_sign_corrections: [1, 1, -1, -1, -1, -1]
